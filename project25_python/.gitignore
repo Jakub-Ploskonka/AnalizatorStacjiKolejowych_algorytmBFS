@@ -1,0 +1,28 @@
+# PyInstaller (Pliki budowania i aplikacja)
+build/
+dist/
+*.spec
+*.dmg
+*.exe
+*.app
+
+# Środowisko wirtualne
+.venv/
+venv/
+
+# Cache i kompilaty Pythona
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testy i Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Pliki systemowe i IDE
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db

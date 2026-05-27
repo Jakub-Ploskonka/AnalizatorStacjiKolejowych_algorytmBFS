@@ -1,0 +1,4 @@
+Stacja startowa: KRK
+Maksymalny dystans: 7
+Zablokowane: WAW, ZAB, LEG
+
